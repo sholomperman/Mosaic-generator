@@ -1,0 +1,7 @@
+node_modules/
+assets/
+thumbnails/
+outputs/
+
+**/.DS_Store
+.DS_Store
