@@ -12,6 +12,11 @@ cd Mosaic-generator
 npm install
 ```
 
+### Things to add before using
+1. Add a input image in the main directory
+
+2. Add a assets folder with the images you want to use as the mosaic images
+
 ## Usage Guide
 
 ### The Mosaic program has 3 parts after install
@@ -36,7 +41,7 @@ node add_image_opacity.js
 ![Mosaic image](./outputs/output_1706661155459.jpg)
 
 > [!WARNING]
-> If you change the thumbnail size you also need to change the generateMosaic to function from 50 to the dimantions you change it to (mosaic_create.js:26)
+> If you change the thumbnail size you also need to change the generateMosaic to function from 50 to the damnation you change it too (mosaic_create.js:26)
 
 > [!NOTE]
 > The images do get repeated often
