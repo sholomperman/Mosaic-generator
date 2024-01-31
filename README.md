@@ -13,7 +13,7 @@ npm install
 ```
 
 ### Things to add before using
-1. Add a input.png image in the main directory
+1. Add a ```input.jpg``` image in the main directory
 
 2. Add a ```assets``` folder with the images you want to use as the mosaic images
 
